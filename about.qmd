@@ -13,7 +13,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
 About this blog
+
+<!--
+
+    Change the title of the page.
+    Change the template to marquee.
+    Update the links to your profile pages.
+    
+-->

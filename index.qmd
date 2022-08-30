@@ -10,3 +10,12 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+<!--
+
+    Change the title of your listing page.
+    Choose another listing type.
+    Change the sort option to date asc.
+    What happens when you change filter-ui to true?
+
+-->
