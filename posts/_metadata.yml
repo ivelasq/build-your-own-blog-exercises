@@ -8,3 +8,4 @@ freeze: true
 title-block-banner: true
 
 # Change the color of title-block-banner to "#FFA500".
+# Change it again to `banner.jpg`.
